@@ -438,7 +438,7 @@
   </notepads>
   <connection>
     <name>Postgres</name>
-    <server>192.168.224.128</server>
+    <server>192.168.56.6</server>
     <type>POSTGRESQL</type>
     <access>Native</access>
     <database>postgres</database>
