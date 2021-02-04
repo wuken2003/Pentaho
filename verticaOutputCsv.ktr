@@ -457,7 +457,7 @@
     <command>/opt/vertica/bin/vsql -U dbadmin -At -o /tmp/exportFromPentaho.csv -c "select * from public.IBD_TB_IH_DOORPLATE_ADDR_STREET;"</command>
     <commandfieldname/>
     <port>22</port>
-    <servername>192.168.224.128</servername>
+    <servername>192.168.56.6</servername>
     <userName>root</userName>
     <password>Encrypted 2be98afc86aa7f2e4fa08af6afea59ce2</password>
     <usePrivateKey>N</usePrivateKey>
